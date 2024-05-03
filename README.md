@@ -1,2 +1,2 @@
 # GitHub-java
-my java
+This is my java repository
